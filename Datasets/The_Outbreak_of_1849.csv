@@ -1,0 +1,37 @@
+﻿district,region,population,area,elevation,number_houses,house_value_average,deaths
+Bermondsey,South,48128,688,0,5674,18,734
+Bethnal Green,East,90193,760,38,11782,9,789
+Camberwell,South,54667,4342,4,6843,25,504
+Chelsea,West,56538,865,12,5648,29,247
+City of London,Central,55932,434,31,7921,117,207
+Clerkenwell,Central,64778,315,65,6946,33,121
+East London,Central,44406,153,40,4796,38,182
+Greenwich,South,99305,5367,8,11995,22,718
+Hackney,North,58429,3929,53,7192,25,139
+Hampstead,North,11986,2252,350,1411,40,9
+Holborn,Central,46621,196,53,4603,52,161
+Islington,North,95329,3127,94,8508,35,187
+Kensington,West,120004,7374,40,10962,33,206
+Lambeth,South,139325,4015,3,17791,28,1618
+Lewisham,South,34835,17224,28,3966,27,96
+Marylebone,North,157696,1509,87,14169,71,261
+Newington,South,64816,624,-1,9370,22,907
+Pancras,North,166956,2716,73,14766,41,360
+Poplar,East,47162,2918,8,5066,44,313
+Rotherhithe,South,17805,886,0,2420,23,352
+Shoreditch,East,109257,646,48,16554,20,830
+St. George Hanover Square,West,73230,1161,34,7630,153,131
+St. George Southwark,South,51824,282,0,6663,22,836
+St. George-in-the-East,East,48376,243,31,5985,32,199
+St. Giles,Central,54214,245,68,4959,60,285
+St. James Westminster,West,36406,164,58,3590,128,57
+St. Luke,Central,54055,220,51,6385,28,183
+St. Martin-in-the-Fields,West,24640,305,38,2439,119,91
+"St. Olave, Southwark",South,19375,169,4,2523,35,349
+"St. Saviour, Southwark",South,35731,250,3,4659,36,539
+Stepney,East,110775,1257,21,14364,20,501
+Strand,Central,44460,174,50,4327,66,156
+Wandsworth,South,50764,11695,24,6459,29,484
+West London,Central,28790,136,29,3010,65,429
+Westminster,West,65609,917,3,6439,36,437
+Whitechapel,East,79759,406,32,8834,26,506

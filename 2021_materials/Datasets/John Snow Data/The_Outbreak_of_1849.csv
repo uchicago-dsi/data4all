@@ -1,0 +1,37 @@
+﻿District,Region,Population (1851),Area (Acres),Elevation,"Houses, Inhabited",Value of Houses,Deaths from Cholera (1849)
+Kensington,West,120004,7374,40,10962,488188,206
+Chelsea,West,56538,865,12,5648,169679,247
+St. George Hanover Square,West,73230,1161,34,7630,878690,131
+Westminster,West,65609,917,3,6439,238164,437
+St. Martin-in-the-Fields,West,24640,305,38,2439,297665,91
+St. James Westminster,West,36406,164,58,3590,474528,57
+Marylebone,North,157696,1509,87,14169,1050664,261
+Hampstead,North,11986,2252,350,1411,58743,9
+Pancras,North,166956,2716,73,14766,633974,360
+Islington,North,95329,3127,94,8508,307286,187
+Hackney,North,58429,3929,53,7192,186415,139
+St. Giles,Central,54214,245,68,4959,306439,285
+Strand,Central,44460,174,50,4327,321999,156
+Holborn,Central,46621,196,53,4603,261970,161
+Clerkenwell,Central,64778,315,65,6946,235324,121
+St. Luke,Central,54055,220,51,6385,186256,183
+East London,Central,44406,153,40,4796,191558,182
+West London,Central,28790,136,29,3010,217562,429
+City of London,Central,55932,434,31,7921,990008,207
+Shoreditch,East,109257,646,48,,323091,830
+Bethnal Green,East,90193,760,38,11782,109937,789
+Whitechapel,East,79759,406,32,8834,243657,506
+St. George-in-the-East,East,48376,243,31,5985,196942,199
+Stepney,East,110775,1257,21,14364,301888,501
+Poplar,East,47162,2918,8,5066,229751,313
+"St. Saviour, Southwark",South,35731,250,3,4659,174732,539
+"St. Olave, Southwark",South,19375,169,4,2523,90583,349
+Bermondsey,South,48128,688,0,5674,107821,734
+St. George Southwark,South,51824,282,0,6663,155175,836
+Newington,South,64816,624,-1,9370,207460,907
+Lambeth,South,139325,4015,3,17791,510341,1618
+Wandsworth,South,50764,11695,24,6459,193395,484
+Camberwell,South,54667,4342,4,6843,180418,504
+Rotherhithe,South,17805,886,0,2420,59072,352
+Greenwich,South,99305,5367,8,11995,274478,718
+Lewisham,South,34835,17224,28,3966,111357,96

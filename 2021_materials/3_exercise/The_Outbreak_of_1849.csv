@@ -1,0 +1,37 @@
+﻿District,Region,Population (1851),Deaths from Cholera (1849),Death Rate (per 1000),Area,Elevation,Houses,Value of Houses,Water Supplier
+Kensington,West,120004,206,1.716609446,7374,40,10962,488188,Chelsea_GrandJunction_WestMisslesex
+Chelsea,West,56538,247,4.368743146,865,12,5648,169679,Chelsea
+St. George Hanover Square,West,73230,131,1.788884337,1161,34,7630,878690,GrandJunction
+Westminster,West,65609,437,6.660671554,917,3,6439,238164,Chelsea
+St. Martin-in-the-Fields,West,24640,91,3.693181818,305,38,2439,297665,NewRiver
+St. James Westminster,West,36406,57,1.565675987,164,58,3590,474528,GrandJunction_NewRiver
+Marylebone,North,157696,261,1.655083198,1509,87,14169,1050664,WestMisslesex
+Hampstead,North,11986,9,0.750876022,2252,350,1411,58743,Hampstead_WestMisslesex
+Pancras,North,166956,360,2.156256738,2716,73,14766,633974,Hampstead__NewRiver_WestMisslesex
+Islington,North,95329,187,1.961627626,3127,94,8508,307286,NewRiver
+Hackney,North,58429,139,2.378955656,3929,53,7192,186415,EastLondon_NewRiver
+St. Giles,Central,54214,285,5.256944701,245,68,4959,306439,NewRiver
+Strand,Central,44460,156,3.50877193,174,50,4327,321999,NewRiver
+Holborn,Central,46621,161,3.453379378,196,53,4603,261970,NewRiver
+Clerkenwell,Central,64778,121,1.86791812,315,65,6946,235324,NewRiver
+St. Luke,Central,54055,183,3.385440755,220,51,6385,186256,NewRiver
+East London,Central,44406,182,4.098545242,153,40,4796,191558,NewRiver
+West London,Central,28790,429,14.90100729,136,29,3010,217562,NewRiver
+City of London,Central,55932,207,3.700922549,434,31,7921,990008,NewRiver
+Shoreditch,East,109257,830,7.596767255,646,48,,323091,EastLondon_NewRiver
+Bethnal Green,East,90193,789,8.747907266,760,38,11782,109937,EastLondon
+Whitechapel,East,79759,506,6.344111636,406,32,8834,243657,EastLondon
+St. George-in-the-East,East,48376,199,4.113610055,243,31,5985,196942,EastLondon
+Stepney,East,110775,501,4.52268111,1257,21,14364,301888,EastLondon
+Poplar,East,47162,313,6.636699037,2918,8,5066,229751,EastLondon
+"St. Saviour, Southwark",South,35731,539,15.08494025,250,3,4659,174732,Lambeth_SouthwarkVauxhall
+"St. Olave, Southwark",South,19375,349,18.01290323,169,4,2523,90583,SouthwarkVauxhall
+Bermondsey,South,48128,734,15.25099734,688,0,5674,107821,SouthwarkVauxhall
+St. George Southwark,South,51824,836,16.13152207,282,0,6663,155175,Lambeth_SouthwarkVauxhall
+Newington,South,64816,907,13.99345841,624,-1,9370,207460,Lambeth_SouthwarkVauxhall
+Lambeth,South,139325,1618,11.61313476,4015,3,17791,510341,Lambeth_SouthwarkVauxhall
+Wandsworth,South,50764,484,9.534315657,11695,24,6459,193395,SouthwarkVauxhall
+Camberwell,South,54667,504,9.219455979,4342,4,6843,180418,Lambeth_SouthwarkVauxhall
+Rotherhithe,South,17805,352,19.7697276,886,0,2420,59072,Kent_SouthwarkVauxhall
+Greenwich,South,99305,718,7.230250239,5367,8,11995,274478,Kent
+Lewisham,South,34835,96,2.755849002,17224,28,3966,111357,Kent
