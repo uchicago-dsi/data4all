@@ -4,7 +4,7 @@ The goal of Data4All is to teach high school students how to use computation, st
 
 The main documents that summarize the workshop and the related materials are the [instructor guide](https://github.com/uchicago-dsi/data4all/blob/published/Documents/Data_4_All_Instructor_Guide%20Sept%2024%202024.pdf) and the [workshop schedule](https://github.com/uchicago-dsi/data4all/blob/published/Documents/Schedule.xlsx).
 
-The Data4All High School Bridge Workshop has been made possible through the efforts of the tireless efforts and collaboration of the following:
+The Data4All High School Bridge Workshop has been made possible through the continual efforts and collaboration of the following:
 
 * Evelyn Campbell, Ph.D. (Data Science Institute, University of Chicago)
 * Julia Koschinsky, Ph.D. (Center for Spatial Data Science, University of Chicago)
@@ -18,8 +18,9 @@ The following organizations have financially supported the Data4All High School 
 * Hymen Milgrom Supporting Organization
 * Inclusive Innovation Fund
 
+The following individuals have supported the operations of the Data4All High School Bridge Program:
 * Overall support: David Uminsky, Ph.D. (Data Science Institute, University of Chicago) 
-* Evaluation support by Jeanne Century, Ed.D. (Data Science Institute, University of Chicago)
-* Community outreach and recruitment supported by Shaz Rasul, M.S. (Office of Civic Engagement, University of Chicago)
+* Evaluation: Jeanne Century, Ed.D. (Data Science Institute, University of Chicago)
+* Community outreach and recruitment: Shaz Rasul, M.S. (Office of Civic Engagement, University of Chicago)
 
 For a list of full acknowledgements, please refer to our [evaluation report](https://docs.google.com/presentation/d/1NiBxgxEjPB7GSK0HNu3-NULa_Fa1zs_Uq_j2T4Hh8m4/edit#slide=id.g1b4145e95e8_0_455).
