@@ -18,6 +18,7 @@ The following organizations have financially supported the Data4All High School 
 * Hymen Milgrom Supporting Organization
 * Inclusive Innovation Fund
 
+The following individuals have supported the operations of the Data4All High School Bridge Program:
 * Overall support: David Uminsky, Ph.D. (Data Science Institute, University of Chicago) 
 * Evaluation support by Jeanne Century, Ed.D. (Data Science Institute, University of Chicago)
 * Community outreach and recruitment supported by Shaz Rasul, M.S. (Office of Civic Engagement, University of Chicago)
