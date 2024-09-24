@@ -20,7 +20,7 @@ The following organizations have financially supported the Data4All High School 
 
 The following individuals have supported the operations of the Data4All High School Bridge Program:
 * Overall support: David Uminsky, Ph.D. (Data Science Institute, University of Chicago) 
-* Evaluation support by Jeanne Century, Ed.D. (Data Science Institute, University of Chicago)
-* Community outreach and recruitment supported by Shaz Rasul, M.S. (Office of Civic Engagement, University of Chicago)
+* Evaluation: Jeanne Century, Ed.D. (Data Science Institute, University of Chicago)
+* Community outreach and recruitment: Shaz Rasul, M.S. (Office of Civic Engagement, University of Chicago)
 
 For a list of full acknowledgements, please refer to our [evaluation report](https://docs.google.com/presentation/d/1NiBxgxEjPB7GSK0HNu3-NULa_Fa1zs_Uq_j2T4Hh8m4/edit#slide=id.g1b4145e95e8_0_455).
