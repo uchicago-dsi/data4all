@@ -23,4 +23,4 @@ The following individuals have supported the operations of the Data4All High Sch
 * Evaluation: Jeanne Century, Ed.D. (Data Science Institute, University of Chicago)
 * Community outreach and recruitment: Shaz Rasul, M.S. (Office of Civic Engagement, University of Chicago)
 
-For a list of full acknowledgements, please refer to our [evaluation report](https://docs.google.com/presentation/d/1NiBxgxEjPB7GSK0HNu3-NULa_Fa1zs_Uq_j2T4Hh8m4/edit#slide=id.g1b4145e95e8_0_455).
+For a list of full acknowledgements, please refer to our [evaluation report](https://github.com/uchicago-dsi/data4all/blob/published/Documents/Evaluation/2022-23%20Data4All%20Bridge%20Workshop%20Final%20Eval.pdf).
