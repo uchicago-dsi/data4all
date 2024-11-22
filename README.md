@@ -8,7 +8,7 @@ The Data4All High School Bridge Workshop has been made possible through the cont
 
 * Evelyn Campbell, Ph.D. (Data Science Institute, University of Chicago)
 * Julia Koschinsky, Ph.D. (Center for Spatial Data Science, University of Chicago)
-* John Domyancich. M.A. (Argonne National Labs)
+* John Domyancich, M.A. (Argonne National Labs)
 * Tyler Skluzacek, Ph.D. (Oak Ridge National Laboratory)
 * Bethany Frank, M.S. (Argonne National Labs) 
 * Damaris Hernandez, M.A., South LA College Prep
